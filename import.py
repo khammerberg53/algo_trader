@@ -1,3 +1,5 @@
+# simple algo trader that uses LSTM_pred.py to make decisons 
+
 import alpaca_trade_api as tradeapi
 import time
 import datetime
