@@ -1,4 +1,4 @@
-# essentially a copy of LSTM from different repository on my profile, but modified slightly to be used witha algo trader
+# essentially a copy of LSTM from different repository on my profile, but modified slightly to be used with algo trader
 
 import numpy as np
 import pandas as pd
