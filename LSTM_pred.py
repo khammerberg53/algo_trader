@@ -1,3 +1,5 @@
+# essentially a copy of LSTM from different repository on my profile, but modified slightly to be used witha algo trader
+
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
