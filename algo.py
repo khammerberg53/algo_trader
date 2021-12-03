@@ -10,8 +10,8 @@ tz = timezone('EST')
 import numpy as np
 import pandas as pd
 
-api = tradeapi.REST('PK08PSBIZO3XBIEILL9W',
-                    'Sl2r4IUVschAd69LsZSfUWBFpCRqUij6ibfYGlfi',
+api = tradeapi.REST('your-api-goes-here',
+                    'your-secret-api-goes-here',
                     'https://paper-api.alpaca.markets')
 
 import logging
