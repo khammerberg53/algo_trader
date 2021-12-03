@@ -14,8 +14,8 @@ import pandas as pd
 from yahoo_fin import stock_info as si
 import LSTM_pred as nn
 
-api = tradeapi.REST('PK08PSBIZO3XBIEILL9W',
-                    'Sl2r4IUVschAd69LsZSfUWBFpCRqUij6ibfYGlfi',
+api = tradeapi.REST('your-api-goes-here',
+                    'your-secret-api-goes-here',
                     'https://paper-api.alpaca.markets')
 
 import logging
