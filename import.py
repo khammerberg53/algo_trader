@@ -1,4 +1,3 @@
-# credit to https://alpaca.markets/learn/python-aws-trading-algorithm/
 import alpaca_trade_api as tradeapi
 import time
 import datetime
